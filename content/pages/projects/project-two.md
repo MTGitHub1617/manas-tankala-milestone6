@@ -4,7 +4,7 @@ title: 'Soaps with Organic & Natural Ingredients '
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: 'We use '
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
