@@ -9,7 +9,7 @@ description: >-
   Oil, & Castor Oil which are made of organic sources.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Organic Oils.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
