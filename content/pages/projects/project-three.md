@@ -4,7 +4,7 @@ title: SOAPS WITH FRAGRANCES
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: ''
+description: 'The fragrances we use are '
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
