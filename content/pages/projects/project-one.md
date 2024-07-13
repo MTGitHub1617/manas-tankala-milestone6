@@ -6,7 +6,7 @@ date: '2021-10-15'
 client: Awesome client
 description: >-
   The important ingredients we use to make our soaps are essential oils and Lye
-  (
+  (Sodium Hydroxide
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
