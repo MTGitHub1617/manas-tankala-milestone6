@@ -4,7 +4,7 @@ title: Blog
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: ''
+description: Visit this section for our in house experts and community enthusiasts   blogs
 media:
   type: ImageBlock
   url: /images/bg1.jpg
