@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: SOAPS WITH FRAGRANCES
+title: Soaps By  Fragrances
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
