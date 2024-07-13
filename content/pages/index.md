@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: NATURE TRIBES
-    subtitle: This site is about making soaps and using them
+    subtitle: This site is about making soaps.
     styles:
       self:
         height: auto
