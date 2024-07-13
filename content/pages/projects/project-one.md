@@ -7,7 +7,7 @@ client: Awesome client
 description: Visit this section for our in house experts and community enthusiasts   blogs
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Blog Writing.webp
   altText: Project image
 ---
 
