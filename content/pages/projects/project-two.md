@@ -4,7 +4,7 @@ title: 'Soaps with Organic & Natural Ingredients '
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: 'The oils we use are Olive Oil, Coconut Oil, '
+description: 'The oils we use are Olive Oil, Coconut Oil, Almond Milk, '
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
