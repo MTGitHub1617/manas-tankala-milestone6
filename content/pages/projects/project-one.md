@@ -7,7 +7,7 @@ client: Awesome client
 description: "The important ingredients we use to make our soaps are essential oils and Lye (Sodium Hydroxide) which in making the soap to look good & feel good\U0001F60E"
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Organic Oils.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
