@@ -80,7 +80,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Buy
+    subtitle: Market Place
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
