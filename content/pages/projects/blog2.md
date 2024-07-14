@@ -47,10 +47,13 @@ bottomSections:
       your own batch of this skin-loving goodness.
 
 
-      ****
+      ***
 
 
-      ****![](/images/Olive%20Oil.jpeg)
+      \*\*\*\*
+
+
+      ![](/images/olive%20oil.jpeg)
 
 
       **Why Olive Oil?**
