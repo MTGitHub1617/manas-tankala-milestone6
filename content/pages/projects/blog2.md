@@ -42,6 +42,10 @@ There are two main approaches to using coconut oil in soap:
 
 *   **Coconut & The Crew:** Combine coconut oil with other fabulous organic oils like olive oil for added moisture, shea butter for extra conditioning, or castor oil for even more luxurious lather. This allows for customization and caters to your specific skin needs.
 
+****![](/images/Coconutoil.jpeg)
+
+****
+
 **Ready to Get Lathery?**
 
 Here's a simple recipe to get you started (remember, this is a basic template; feel free to experiment!):
