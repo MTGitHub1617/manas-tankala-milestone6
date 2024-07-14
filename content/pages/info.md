@@ -128,7 +128,7 @@ sections:
         caption: Logo two
       - type: ImageBlock
         url: /images/Legacy+Farms+Logo+Finished+(2).png
-        altText: Logo three
+        altText: LegacyFarms.com
         caption: Logo three
       - type: ImageBlock
         url: /images/TH_FLAG-1999x1999.webp
