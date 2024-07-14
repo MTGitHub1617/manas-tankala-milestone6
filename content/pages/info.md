@@ -133,7 +133,7 @@ sections:
       - type: ImageBlock
         url: /images/TH_FLAG-1999x1999.webp
         altText: TommyHilfiger.com
-        caption: Logo four
+        caption: TommyHilfiger.com
       - type: ImageBlock
         url: /images/Gumspring Library Logo.jpeg
         altText: Gumspringlibrary.com
