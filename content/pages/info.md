@@ -259,7 +259,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Swift
+        label: Google Docs
   - type: DividerSection
     styles:
       self:
