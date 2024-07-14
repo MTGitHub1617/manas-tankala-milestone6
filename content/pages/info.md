@@ -191,6 +191,7 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
+            altText: You can find me on LinkedIn as well
         styles:
           self:
             textAlign: left
