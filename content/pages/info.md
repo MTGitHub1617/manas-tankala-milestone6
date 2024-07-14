@@ -135,7 +135,7 @@ sections:
         altText: TommyHilfiger.com
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/Gumspring Library Logo.jpeg
         altText: Logo five
         caption: Logo five
     spacing: 3
