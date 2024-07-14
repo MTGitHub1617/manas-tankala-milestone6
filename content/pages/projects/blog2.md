@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Blogs
 date: '2024-07-01'
-client: Awesome client
+client: Expert Desk
 description: Visit this section for our in house experts and community enthusiasts   blogs
 featuredImage:
   type: ImageBlock
