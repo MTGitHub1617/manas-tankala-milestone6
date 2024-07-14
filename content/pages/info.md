@@ -62,7 +62,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/27884.jpg
-        altText: Image three
+        altText: Dusk's first campout with us
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
