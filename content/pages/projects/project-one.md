@@ -7,7 +7,6 @@ client: Awesome client
 description: Visit this section for our in house experts and community enthusiasts   blogs
 media:
   type: ImageBlock
-  url: /images/Blog Writing.webp
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
