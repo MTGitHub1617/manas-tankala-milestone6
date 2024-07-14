@@ -276,8 +276,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      EmailtoManas004\@gmail.com
+    text: |+
+      <EmailtoManas004@gmail.com>
+
   - type: DividerSection
     styles:
       self:
