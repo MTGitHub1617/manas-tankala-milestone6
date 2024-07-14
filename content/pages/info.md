@@ -123,6 +123,12 @@ sections:
         altText: Nike.com
         caption: Nike.com
       - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
         url: /images/Harris Teeter Logo.jpeg
         altText: HarrisTeeter.com
         caption: HarrisTeeter.com
