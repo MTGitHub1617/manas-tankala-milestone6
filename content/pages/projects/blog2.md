@@ -32,7 +32,7 @@ bottomSections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-c
+    colors: colors-a
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
