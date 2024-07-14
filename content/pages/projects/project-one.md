@@ -8,7 +8,7 @@ description: Visit this section for our in house experts and community enthusias
 media:
   type: ImageBlock
   altText: Blog image
-  caption: Caption of the image
+  caption: Blogs section
   elementId: ''
   url: /images/pexels-pixabay-262508.jpg
 ---
