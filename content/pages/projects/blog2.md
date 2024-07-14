@@ -35,7 +35,7 @@ bottomSections:
     colors: colors-a
     variant: variant-b
     title: Olivetatsic
-    subtitle: The section subtitle
+    subtitle: Organic Oilives
     text: >
       ## Olivetastic! Unveiling the Magic of Olive Oil Soap Making
 
