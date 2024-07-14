@@ -373,6 +373,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    subtitle: 'Customer Service: '
   - type: DividerSection
     styles:
       self:
