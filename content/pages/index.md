@@ -42,7 +42,37 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: "This site is about my entrepreneurship in making organic soaps.\_About me & how it started..I’m Manas Tankala I am the CEO of Nature Tribes.I had a dream to own a puppy, and I have been thinking about how I can convince my parents to get one. Then I thought, if I chip in, they might consider I am serious about my pet project.\_I do chores at home and make a little money, but that’s not enough to make my case. And One day, I saw my dad making the soaps for his DIY hobby. I liked those soaps, and that’s my aha moment to start the company..-:)What goes in making a Soap?Our soaps are handmade ones with natural oils like Olive Oil, Coconut Oil, and topped with nice essential oils. Some variants are included with Almond milk and Aloe vera.\_My soaps are special not just because of natural ingredients alone. My sincere effort is also baked in every step until the final wrapping is made.Our Soaps Collection is made of Lavender, Rosemary, Lemongrass and Mint fragrances.\_\_\_\n\n![](/images/IMG_20200411_201742.jpg)\n"
+    text: "This site is about my entrepreneurship in making organic soaps.\_About me & how it started..I’m Manas Tankala I am the CEO of Nature Tribes.I had a dream to own a puppy, and I have been thinking about how I can convince my parents to get one. Then I thought, if I chip in, they might consider I am serious about my pet project.\_I do chores at home and make a little money, but that’s not enough to make my case. And One day, I saw my dad making the soaps for his DIY hobby. I liked those soaps, and that’s my aha moment to start the company..-:)What goes in making a Soap?Our soaps are handmade ones with natural oils like Olive Oil, Coconut Oil, and topped with nice essential oils. Some variants are included with Almond milk and Aloe vera.\_My soaps are special not just because of natural ingredients alone. My sincere effort is also baked in every step until the final wrapping is made.Our Soaps Collection is made of Lavender, Rosemary, Lemongrass and Mint fragrances.\_\_\_\n\n"
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/IMG_20200411_201742.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-a
+    spacing: 16
+    columns: 1
+    aspectRatio: '16:9'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
