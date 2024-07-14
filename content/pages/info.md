@@ -127,13 +127,13 @@ sections:
         altText: HarrisTeeter.com
         caption: HarrisTeeter.com
       - type: ImageBlock
-        url: /images/Legacy+Farms+Logo+Finished+(2).png
-        altText: LegacyFarms.com
-        caption: LegacyFarms.com
-      - type: ImageBlock
         url: /images/TH_FLAG-1999x1999.webp
         altText: TommyHilfiger.com
         caption: TommyHilfiger.com
+      - type: ImageBlock
+        url: /images/Legacy+Farms+Logo+Finished+(2).png
+        altText: LegacyFarms.com
+        caption: LegacyFarms.com
       - type: ImageBlock
         url: /images/Gumspring Library Logo.jpeg
         altText: Gumspringlibrary.com
