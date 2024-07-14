@@ -124,7 +124,7 @@ sections:
         caption: Logo one
       - type: ImageBlock
         url: /images/Harris Teeter Logo.jpeg
-        altText: Logo two
+        altText: HarrisTeeter.com
         caption: Logo two
       - type: ImageBlock
         url: /images/Legacy+Farms+Logo+Finished+(2).png
