@@ -13,11 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      Hey I’.m Manas, most of my schooling done in Northern Virginia, and that’s
+      also where I’m based. I’m currently employed at Nike and ex Associate at
+      Tommy Hilfiger. When I’m not studying, I watch Dharmann shows. I have a
+      dog, it's named Dusk, check his picture..!
     media:
       type: ImageBlock
       url: /images/Manas_at_GW Home.jpg
