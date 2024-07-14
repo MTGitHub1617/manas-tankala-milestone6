@@ -57,7 +57,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_20210110_164848.jpg
-        altText: Image two
+        altText: Dusk's first day with us at our house
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
