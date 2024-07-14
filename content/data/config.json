@@ -32,7 +32,7 @@
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blogs"
+                "url": "/blog"
             },
             {
                 "type": "Link",
