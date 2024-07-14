@@ -47,7 +47,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - type: MediaGallerySection
-    title: Gallery
+    title: How Dusk came into our live
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
