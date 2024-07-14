@@ -2,7 +2,7 @@
 type: PostLayout
 title: Showing how useful Organic Soaps are
 colors: colors-a
-date: '2024-07-01'
+date: '2024-07-14'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
