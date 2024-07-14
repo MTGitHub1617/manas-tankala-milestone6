@@ -88,6 +88,7 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
+        altText: List of Posts/blogs
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
