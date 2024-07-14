@@ -5,31 +5,34 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Home",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "About me",
+                "url": "/info",
+                "altText": "About Me"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Soaps",
+                "url": "/projects",
+                "altText": "Soaps page link"
             },
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blog"
+                "url": "/blog",
+                "altText": "Section for blogs"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
+                "altText": "X",
+                "label": "X",
+                "url": "https://x.com/",
                 "icon": "twitter"
             },
             {
@@ -44,6 +47,13 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/Nature Tribes logo.png",
+            "altText": "Nature Tribes Logo",
+            "caption": "Home",
+            "elementId": ""
         }
     },
     "footer": {
@@ -51,21 +61,15 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About Me",
                 "url": "/info",
-                "altText": ""
+                "altText": "About Me"
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "url": "mailto:emailmanas004@gmail.com",
+                "altText": "Contact "
             },
             {
                 "type": "Link",
@@ -77,18 +81,23 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "phoneNumber": "571-351-8229",
+            "phoneAltText": "",
+            "email": "EmailtoManas004@gmail.com",
+            "emailAltText": "",
+            "address": "43124 Ashley Heights Circle, Ashbun, VA 20148",
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

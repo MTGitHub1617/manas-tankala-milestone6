@@ -1,29 +1,91 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Soaps By  Fragrances
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
+description: "The fragrances we use are Lavender, Rosemary, Lemongrass, & Peppermint which we use to make our soaps smell nice\U0001F44D"
 media:
   type: ImageBlock
   url: /images/bg3.jpg
   altText: Project image
+featuredImage:
+  type: ImageBlock
+  url: /images/Fragrances.webp
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+Unleash Your Senses: Explore Our Fragrant Soap Collection
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Welcome to a world of captivating scents! Here at \[Your Shop Name], we believe bath time shouldn't be just a routine, it should be a sensory escape.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Discover the Perfect Fragrance for You:
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Our fragrant soap collection is meticulously crafted with a delightful blend of high-quality essential oils and luxurious fragrance oils. Whether you crave a burst of energy, a moment of serenity, or a touch of nostalgia, we have a soap to transport you:
+
+*   Invigorating Escape: Awaken your senses with our invigorating scents like citrus zest, lemongrass, and peppermint. Perfect for a morning pick-me-up or a post-workout refresh.
+
+*   Calming Sanctuary: Unwind and de-stress with our calming scents like lavender, chamomile, and sandalwood. Indulge in a spa-like experience in the comfort of your own home.
+
+*   Warm Nostalgia: Relive cherished memories with our nostalgic scents like vanilla bean, fresh linen, and spiced pumpkin. Embrace the feeling of cozy comfort.
+
+*   Seasonal Delights: Celebrate the seasons with our limited-edition scents! From the crispness of autumn leaves to the sweetness of summer berries, we have a soap to capture the mood.
+
+More Than Just Beautiful Scents:
+
+While captivating fragrances are a hallmark of our collection, we haven't forgotten about gentle cleansing and nourishing ingredients. Our soaps are:
+
+*   Made with nourishing plant-based oils: We use a blend of coconut oil, olive oil, and other natural oils to leave your skin feeling soft and hydrated.
+
+*   Free of harsh chemicals: We avoid parabens, sulfates, and synthetic dyes for a gentle cleansing experience.
+
+*   Long-lasting lather: Enjoy a luxurious lather that pampers your skin.
+
+Shop Now and Find Your Signature Scent
+
+Treat yourself or find the perfect gift with our fragrant soap collection. Browse our individual soaps or explore our curated gift sets. We offer something for everyone!
+
+
+
+
+
+
+
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdjAFvtuedmebte2xVsB-2CyZLFPe_-LY3Itp6N_DfWdwaYBnaiNqT0OvXB5c2IK7WlJPbWroiPpE-pzA_Nw4PHoDTjlismKqEWrnEfQmcfr0M8gy7dua3VUPC4_WUgXomltnPJORwH4WNbckUNkXeCY9g?key=ogZdDBhK7y7m37QxfI_Rfg)
+
+
+
+
+Featured Scents:
+
+*   Sparkling Citrus (invigorating)
+
+*   Tranquil Lavender (calming)
+
+*   Warm Vanilla Bean (nostalgic)
+
+Explore few more Collections
+
+*   Rosemary
+
+*   Lavender
+
+*   Mint
+
+*   Lemongrass
+
+About Us
+
+We are passionate about creating beautiful and luxurious bath and body products that elevate your everyday routine. We use high-quality ingredients and combine the benefits of aromatherapy with effective cleansing.
+
+Contact Us
+
+Have questions about our fragrant soaps? Reach out to us today! We're always happy to help.
+
+Let the journey of captivating scents begin!
+
+

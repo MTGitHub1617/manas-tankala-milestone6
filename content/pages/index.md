@@ -12,14 +12,9 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    backgroundSize: inset
+    title: NATURE TRIBES
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -47,13 +42,11 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: "This site is about my entrepreneurship in making organic soaps.\_About me & how it started..I’m Manas Tankala I am the CEO of Nature Tribes.I had a dream to own a puppy, and I have been thinking about how I can convince my parents to get one. Then I thought, if I chip in, they might consider I am serious about my pet project.\_I do chores at home and make a little money, but that’s not enough to make my case. And One day, I saw my dad making the soaps for his DIY hobby. I liked those soaps, and that’s my aha moment to start the company..-:)What goes in making a Soap?Our soaps are handmade ones with natural oils like Olive Oil, Coconut Oil, and topped with nice essential oils. Some variants are included with Almond milk and Aloe vera.\_My soaps are special not just because of natural ingredients alone. My sincere effort is also baked in every step until the final wrapping is made.Our Soaps Collection is made of Lavender, Rosemary, Lemongrass and Mint fragrances.\_\_\_\n\n![](/images/IMG_20200411_201742.jpg)\n"
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
+    actions: []
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -62,7 +55,7 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+      - content/pages/projects/blog2.md
     styles:
       self:
         height: auto
@@ -84,7 +77,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Market Place
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -95,10 +88,10 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
+        altText: List of Posts/blogs
     posts:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -130,7 +123,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got an interesting Soap making recipe? Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
