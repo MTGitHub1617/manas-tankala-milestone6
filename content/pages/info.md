@@ -257,7 +257,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: C++
+        label: HTML
       - type: Label
         label: Swift
   - type: DividerSection
