@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Blogs
 date: '2024-07-01'
 client: Awesome client
 description: Visit this section for our in house experts and community enthusiasts   blogs
