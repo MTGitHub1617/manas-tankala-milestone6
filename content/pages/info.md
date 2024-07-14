@@ -13,14 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      Hey I’.m Manas, most of my schooling done in Northern Virginia, and that’s
+      also where I’m based. I’m currently employed at Nike and ex Associate at
+      Tommy Hilfiger. When I’m not studying, I watch Dharmann shows. I have a
+      dog, it's named Dusk, check out his gallery..!
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Manas_at_GW Home.jpg
       altText: Hero image
     styles:
       self:
@@ -46,6 +46,62 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+  - type: MediaGallerySection
+    title: How Dusk came into our lives
+    subtitle: This i
+    images:
+      - type: ImageBlock
+        url: /images/20210110_115459~2.jpg
+        altText: Day that Dusk was adopted
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_20210110_164848.jpg
+        altText: Dusk's first day with us at our house
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/27884.jpg
+        altText: Dusk's first campout with us
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/20220623_113850.jpg
+        altText: Dusk chilling on our couch with a pair of sunglasses
+        caption: Image four caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Dusk gallery
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: DividerSection
     styles:
       self:
@@ -63,30 +119,30 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
+        url: /images/swoosh-logo-black.jpeg
+        altText: '[![alt-text](swoosh-logo-black.jpg)](http://www.nike.com/)'
+        caption: Nike.com
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
+        url: /images/TH_FLAG-1999x1999.webp
+        altText: TommyHilfiger.com
+        caption: TommyHilfiger.com
       - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
+        url: /images/Harris Teeter Logo.jpeg
+        altText: HarrisTeeter.com
+        caption: HarrisTeeter.com
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
+        url: /images/Legacy+Farms+Logo+Finished+(2).png
+        altText: LegacyFarms.com
+        caption: LegacyFarms.com
       - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
+        url: /images/Gumspring Library Logo.jpeg
+        altText: Gumspringlibrary.com
+        caption: Gumspringlibrary.com
     spacing: 3
     columns: 5
     aspectRatio: auto
-    showCaption: false
-    enableHover: false
+    showCaption: true
+    enableHover: true
     styles:
       self:
         width: wide
@@ -121,18 +177,12 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+        actions: []
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -140,23 +190,18 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: www.linkedin.com/in/manas-tankala-490325240
+            altText: You can find me on LinkedIn as well
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+        actions: []
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -164,7 +209,8 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/manastankala/'
+            altText: '@manastankala'
         styles:
           self:
             textAlign: left
@@ -207,21 +253,13 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
         label: Microsoft Office
-      - type: Label
-        label: Next.js
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: HTML
       - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: Google Docs
   - type: DividerSection
     styles:
       self:
@@ -238,8 +276,10 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: |+
+      <EmailtoManas004@gmail.com>
+
+    title: ''
   - type: DividerSection
     styles:
       self:
@@ -257,26 +297,28 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          ****
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Customer Service: Work Experience in customer service positions
 
-          * fullstack at this startup
 
-          **2015**
+          ****
 
-          * senior front-end at this place
 
-          **2013**
+          *   Teamwork: Have experience working in a team environment and
+          different shifts 
 
-          * intern developer at a big company
 
-          **2011**
+          ****
 
-          * flipping burgers
+
+          *   Adaptability: Ability to learn new things and consistently deliver
+          the duties
+
+
+
         styles:
           self:
             textAlign: left
@@ -287,18 +329,9 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          *   Freshmen, Associate of Applied Science, NOVA - Sterling, VA 
 
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
@@ -333,6 +366,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    subtitle: ''
   - type: DividerSection
     styles:
       self:
