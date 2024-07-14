@@ -120,6 +120,36 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/IMG_20200411_201742.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-c
+    spacing: 16
+    columns: 2
+    aspectRatio: '16:9'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -186,34 +216,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/IMG_20200411_201742.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-    colors: colors-c
-    spacing: 16
-    columns: 2
-    aspectRatio: '16:9'
-    showCaption: false
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
 ---
