@@ -67,7 +67,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/20220623_113850.jpg
-        altText: Image four
+        altText: Dusk chilling on our couch with a pair of sunglasses
         caption: Image four caption
         elementId: ''
     colors: colors-c
