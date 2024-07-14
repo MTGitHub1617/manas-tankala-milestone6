@@ -121,7 +121,7 @@ sections:
       - type: ImageBlock
         url: /images/swoosh-logo-black.jpeg
         altText: Nike.com
-        caption: Logo one
+        caption: Nike.com
       - type: ImageBlock
         url: /images/Harris Teeter Logo.jpeg
         altText: HarrisTeeter.com
