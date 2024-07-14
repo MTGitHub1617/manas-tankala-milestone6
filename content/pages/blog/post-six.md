@@ -4,7 +4,7 @@ title: Health Benefits of Organic Soaps
 colors: colors-a
 date: '2024-07-14'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Why you should not ignore health benefits and do good for ecology
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
