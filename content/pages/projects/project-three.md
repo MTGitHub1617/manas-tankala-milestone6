@@ -11,7 +11,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Fragrances.webp
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
