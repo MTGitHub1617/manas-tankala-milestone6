@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Soaps with Organic & Natural Ingredients '
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Awesome Organic ingredients
 description: >-
   The oils we use are Olive Oil, Coconut Oil, Almond Milk, Aloe Vera, Avocado
   Oil, & Castor Oil which are made of organic sources.
