@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Showing how useful Organic Soaps are
+title: Pros for Organic Soaps
 colors: colors-a
 date: '2024-07-14'
 author: content/data/team/doris-soto.json
