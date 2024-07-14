@@ -48,7 +48,7 @@ sections:
     type: HeroSection
   - type: MediaGallerySection
     title: How Dusk came into our lives
-    subtitle: This is the subtitle
+    subtitle: This i
     images:
       - type: ImageBlock
         url: /images/20210110_115459~2.jpg
