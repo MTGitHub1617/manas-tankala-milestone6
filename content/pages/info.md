@@ -129,7 +129,7 @@ sections:
       - type: ImageBlock
         url: /images/Legacy+Farms+Logo+Finished+(2).png
         altText: LegacyFarms.com
-        caption: Logo three
+        caption: LegacyFarms.com
       - type: ImageBlock
         url: /images/TH_FLAG-1999x1999.webp
         altText: TommyHilfiger.com
