@@ -279,7 +279,7 @@ sections:
     text: |+
       <EmailtoManas004@gmail.com>
 
-    title: test
+    title: ''
   - type: DividerSection
     styles:
       self:
