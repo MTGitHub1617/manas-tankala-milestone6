@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Pros for Organic Soaps
+title: Challenges in Organic farming Affecting Artisans
 colors: colors-a
 date: '2024-07-14'
 author: content/data/team/doris-soto.json
