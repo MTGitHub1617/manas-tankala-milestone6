@@ -4,7 +4,7 @@ title: Challenges in Organic farming Affecting Artisans
 colors: colors-a
 date: '2024-07-14'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Why should we take pains in growing Organic ingredients
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
