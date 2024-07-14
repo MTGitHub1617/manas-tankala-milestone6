@@ -373,7 +373,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'Customer Service: Work Experience in customer service positions'
+    subtitle: ''
   - type: DividerSection
     styles:
       self:
