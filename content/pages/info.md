@@ -47,7 +47,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - type: DividerSection
-    title: Divider
+    title: Dusk gallery
     elementId: ''
     styles:
       self:
