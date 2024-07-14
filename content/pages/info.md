@@ -190,7 +190,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: www.linkedin.com/in/manas-tankala-490325240
             altText: You can find me on LinkedIn as well
         styles:
           self:
