@@ -49,7 +49,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/Naturetribes logo.png",
+            "url": "/images/Nature Tribes logo.png",
             "altText": "Nature Tribes Logo",
             "caption": "Home",
             "elementId": ""
