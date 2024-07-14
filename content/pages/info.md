@@ -136,7 +136,7 @@ sections:
         caption: Logo four
       - type: ImageBlock
         url: /images/Gumspring Library Logo.jpeg
-        altText: Logo five
+        altText: Gumspringlibrary.com
         caption: Logo five
     spacing: 3
     columns: 5
