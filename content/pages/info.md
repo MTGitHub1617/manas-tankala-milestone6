@@ -52,7 +52,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/20210110_115459~2.jpg
-        altText: Image one
+        altText: Day that Dusk was adopted
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
