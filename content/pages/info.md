@@ -120,7 +120,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/swoosh-logo-black.jpeg
-        altText: '[![alt-text](image.jpg)](http://www.example.com/)'
+        altText: '[![alt-text](swoosh-logo-black.jpg)](http://www.nike.com)'
         caption: Nike.com
       - type: ImageBlock
         url: /images/TH_FLAG-1999x1999.webp
