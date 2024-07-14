@@ -132,7 +132,7 @@ sections:
         caption: Logo three
       - type: ImageBlock
         url: /images/TH_FLAG-1999x1999.webp
-        altText: Logo four
+        altText: TommyHilfiger.com
         caption: Logo four
       - type: ImageBlock
         url: /images/logo5.svg
