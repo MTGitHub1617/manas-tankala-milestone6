@@ -2,7 +2,7 @@
 type: PostLayout
 title: Health Benefits of Organic Soaps
 colors: colors-a
-date: '2024-07-14'
+date: '2024-07-01'
 author: content/data/team/doris-soto.json
 excerpt: >-
   Why you should not ignore health benefits with organic soaps and do good for
