@@ -7,7 +7,7 @@ client: Awesome client
 description: Visit this section for our in house experts and community enthusiasts   blogs
 media:
   type: ImageBlock
-  altText: altText of the image
+  altText: Blog image
   caption: Caption of the image
   elementId: ''
   url: /images/pexels-pixabay-262508.jpg
