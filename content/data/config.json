@@ -16,7 +16,8 @@
             {
                 "type": "Link",
                 "label": "Soaps",
-                "url": "/Soaps"
+                "url": "/Soaps",
+                "altText": "Soaps page link"
             },
             {
                 "type": "Link",
