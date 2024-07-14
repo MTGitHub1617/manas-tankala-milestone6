@@ -209,6 +209,7 @@ sections:
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/'
+            altText: '@manastankala'
         styles:
           self:
             textAlign: left
