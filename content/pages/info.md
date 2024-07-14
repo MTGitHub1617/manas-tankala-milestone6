@@ -123,13 +123,13 @@ sections:
         altText: Nike.com
         caption: Nike.com
       - type: ImageBlock
-        url: /images/Harris Teeter Logo.jpeg
-        altText: HarrisTeeter.com
-        caption: HarrisTeeter.com
-      - type: ImageBlock
         url: /images/TH_FLAG-1999x1999.webp
         altText: TommyHilfiger.com
         caption: TommyHilfiger.com
+      - type: ImageBlock
+        url: /images/Harris Teeter Logo.jpeg
+        altText: HarrisTeeter.com
+        caption: HarrisTeeter.com
       - type: ImageBlock
         url: /images/Legacy+Farms+Logo+Finished+(2).png
         altText: LegacyFarms.com
