@@ -17,7 +17,7 @@ sections:
       Hey I’.m Manas, most of my schooling done in Northern Virginia, and that’s
       also where I’m based. I’m currently employed at Nike and ex Associate at
       Tommy Hilfiger. When I’m not studying, I watch Dharmann shows. I have a
-      dog, it's named Dusk, check out his picture..!
+      dog, it's named Dusk, check out his gallery..!
     media:
       type: ImageBlock
       url: /images/Manas_at_GW Home.jpg
