@@ -102,7 +102,7 @@ bottomSections:
       text:
         textAlign: left
 ---
-![](https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg)
+
 
 There are two main reasons why people choose organic ingredients: potential health benefits and environmental impact.
 
