@@ -34,7 +34,7 @@ bottomSections:
   - type: TextSection
     colors: colors-a
     variant: variant-b
-    title: The Section Title
+    title: Olivetatsic
     subtitle: The section subtitle
     text: >
       ## Olivetastic! Unveiling the Magic of Olive Oil Soap Making
