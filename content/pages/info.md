@@ -297,26 +297,28 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          ****
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Customer Service: Work Experience in customer service positions
 
-          * fullstack at this startup
 
-          **2015**
+          ****
 
-          * senior front-end at this place
 
-          **2013**
+          *   Teamwork: Have experience working in a team environment and
+          different shifts 
 
-          * intern developer at a big company
 
-          **2011**
+          ****
 
-          * flipping burgers
+
+          *   Adaptability: Ability to learn new things and consistently deliver
+          the duties
+
+
+
         styles:
           self:
             textAlign: left
