@@ -61,7 +61,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/IMG-20201226-WA0000.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
